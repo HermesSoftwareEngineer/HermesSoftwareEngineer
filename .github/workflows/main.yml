@@ -9,12 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.1
         with:
-          github_user_name: HermesSoftwareEngineer
+          github_user_name: HermesSoftwareEngineer # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2
+
+      - name: Deploy Snake Animation
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
