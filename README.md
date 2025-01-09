@@ -1,4 +1,4 @@
-# 👋 **Falaaa galera! Hermes aqui!**
+# 👋 **Olá!! Hermes aqui.**
 
 - Sou estudante de **Ciência da Computação;**
 - Apaixonado por **programação;**
