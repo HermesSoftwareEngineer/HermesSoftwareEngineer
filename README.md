@@ -10,8 +10,8 @@
 
 Com minha bagagem, posso navegar com confiança entre linguagens, frameworks e APIs, sempre buscando aprender mais:
 
-- 🎨 **Frontend**: HTML, CSS (do básico ao avançado), JavaScript, React, Tailwind CSS.
-- 🖥️ **Backend**: Node.js, Express, Sequelize, PostgreSQL.
+- 🎨 **Frontend**: HTML, CSS (do básico ao avançado), JavaScript, React, Tailwind CSS, Flask, Django.
+- 🖥️ **Backend**: Node.js, Express, Sequelize, PostgreSQL, Flask, Django.
 - 🤖 **IA e Bots**: Python, integrações com API do ChatGPT e automações inteligentes.
 - 🔄 **DevOps**: Versionamento com Git, deploy em plataformas como Vercel, integração com APIs.
 - 📋 **Planejamento e Negócios**: Gestão de Pessoas, elaboração de Business Plans e gerenciamento de projetos.
@@ -29,22 +29,6 @@ Com minha bagagem, posso navegar com confiança entre linguagens, frameworks e A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" />    
 </div>
-
-## 🚀 **Projetos de Destaque**
-
-Aqui estão alguns dos meus projetos em desenvolvimento / produção, onde procuro aplicar meus conhecimentos e produzir algo de valor pras pessoas:
-
-### 🎯 **TerapiaFácil**
-
-Um sistema completo para gestão de consultórios e terapeutas, projetado para facilitar a rotina do profissional da saúde mental. Recursos incluem gestão de consultas, vendas e um portfólio personalizado.
-
-### 📋 **Lista de Tarefas**
-
-Uma aplicação prática e intuitiva feita com React e `localStorage`. O projeto organiza tarefas diárias com funcionalidade simples e eficiente.
-
-### 🤖 **Bot para Imobiliária**
-
-Um bot inteligente desenvolvido em Python, integrado ao WhatsApp, para responder clientes de forma automatizada. O bot consulta um banco de dados com imóveis disponíveis e utiliza a API do ChatGPT para conversas mais naturais.
 
 ## Redes Sociais
 
