@@ -38,10 +38,6 @@ Aqui estão alguns dos meus projetos em desenvolvimento / produção, onde procu
 
 Um sistema completo para gestão de consultórios e terapeutas, projetado para facilitar a rotina do profissional da saúde mental. Recursos incluem gestão de consultas, vendas e um portfólio personalizado.
 
-### 🛍️ **Origem - E-commerce de Produtos Naturais**
-
-Criação de um sistema web para um marketplace de produtos naturais, unindo design moderno e responsivo com uma base de dados robusta e integração perfeita.
-
 ### 📋 **Lista de Tarefas**
 
 Uma aplicação prática e intuitiva feita com React e `localStorage`. O projeto organiza tarefas diárias com funcionalidade simples e eficiente.
